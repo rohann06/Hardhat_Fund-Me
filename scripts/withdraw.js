@@ -1,3 +1,4 @@
+/* eslint-disable node/no-unpublished-require */
 /* eslint-disable no-process-exit */
 /* eslint-disable prettier/prettier */
 const { ethers, getNamedAccounts } = require("hardhat");

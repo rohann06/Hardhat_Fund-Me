@@ -65,22 +65,6 @@ contract FundMe {
         require(success);
     }
 
-    function cheaperWithdraw() public payable onlyOwner {
-        address[] memory funders = s_funders;
-        // mappings can't be in memory, sorry!
-        for (
-            uint256 funderIndex = 0;
-            funderIndex < funders.length;
-            funderIndex++
-        ) {
-            address funder = funders[funderIndex];
-            s_addressToAmountFunded[funder] = 0;
-        }
-        s_funders = new address[](0);
-        // payable(msg.sender).transfer(address(this).balance);
-        (bool success, ) = i_owner.call{value: address(this).balance}("");
-        require(success);
-    }
 
     /** @notice Gets the amount that an address has funded
      *  @param fundingAddress the address of the funder
