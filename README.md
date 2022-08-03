@@ -2,7 +2,7 @@
 
   
 ## 🎯The Story:
-The story of this smartcontract is people can fund the ETHs and, only the deployer of the contract can withdraw the ETHs which is funded by the Funders also there is a condition that the fund should be 0.5ETH or more lol.
+The story of this smartcontract is people can fund the ETHs and, only the deployer of the contract can withdraw the ETHs which is funded by the Funders also there is a condition that the fund should be 0.5ETH or more lol, and also after the withdraw the funders array will empty and the contract balence should be 0.
 
 ## Description:
 
