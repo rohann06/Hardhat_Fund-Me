@@ -7,7 +7,7 @@ The story of this smartcontract is people can fund the ETHs and, only the deploy
 ## Description:
 
  - [FundMe](https://github.com/rohanA6/Hardhat_Fund-Me/blob/main/contracts/FUNDME.md)
- - [PriceConveter](https://github.com/rohanA6/Hardhat_Fund-Me/blob/main/contracts/PriceConverter.sol)
+ - [PriceConveter](https://github.com/rohanA6/Hardhat_Fund-Me/new/main/contracts)
 
 
 ## ⚒️ Tools used in smart contract:
