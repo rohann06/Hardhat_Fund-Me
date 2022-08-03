@@ -8,7 +8,7 @@ The story of this scontract is people can fund the ETHs and, only the deployer o
 
 ## Description:
 
- - [FundMe](https://github.com/rohanA6/Hardhat_Fund-Me/blob/main/contracts/FundMe.sol)
+ - [FundMe](https://github.com/rohanA6/Hardhat_Fund-Me/blob/main/contracts/FUNDME.md)
  - [PriceConveter](https://github.com/rohanA6/Hardhat_Fund-Me/blob/main/contracts/PriceConverter.sol)
 
 
