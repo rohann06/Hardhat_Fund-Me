@@ -1,4 +1,4 @@
-<h1 align="center"> FundMe SmartContract </h1> 
+<a href="https://github.com/rohanA6/Fund_Me"><h1 align="center"> FundMe (smart contract)</h1><a> 
 
   
 ## 🎯The Story:
